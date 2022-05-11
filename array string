@@ -1,0 +1,17 @@
+#include <iostream>
+
+using namespace std;
+int main(){
+    string namaSiswa [4] = {
+        "anniko",
+        "hanis",
+        "samuel",
+        "justin"
+};
+cout<<namaSiswa [0]<<endl;
+cout<<namaSiswa [1]<<endl;
+cout<<namaSiswa [2]<<endl;
+cout<<namaSiswa [3]<<endl;
+
+    return 0;
+}
